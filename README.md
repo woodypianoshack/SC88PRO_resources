@@ -1,4 +1,4 @@
-# SC88PRO CHEATSHEET
+# SC88PRO RESOURCES
 
 Offline reference material for the **Roland SoundCanvas SC-88Pro** (1996), built for everyday MIDI sequencing: a single-page HTML cheatsheet plus REAPER bank and drum-map files.
 
