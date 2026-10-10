@@ -1,0 +1,29 @@
+// Roland SC-88Pro - Native drum sets (use on the drum channel, CC0 = 0, CC32 = 3)
+// Source: SC-88Pro Owner's Manual, Drum set list p.163
+
+Bank 0 3 Native Drum Sets
+0 STANDARD 1
+1 STANDARD 2
+2 STANDARD 3
+8 ROOM
+9 Hip-Hop
+10 JUNGLE
+11 TECHNO
+16 POWER
+24 ELECTRONIC
+25 TR-808
+26 DANCE
+27 CR-78
+28 TR-606
+29 TR-707
+30 TR-909
+32 JAZZ
+40 BRUSH
+48 ORCHESTRA
+49 ETHNIC
+50 KICK & SNARE
+52 ASIA
+53 CYMBAL&CLAPS
+56 SFX
+57 RHYTHM FX
+58 RHYTHM FX 2

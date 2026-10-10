@@ -1,0 +1,77 @@
+# SC-88Pro Native drum set PC 057 SFX
+21 MC-500 Beep 1
+22 MC-500 Beep 2
+23 Guitar Slide
+24 Guitar Wah
+25 Guitar Slap
+26 Chord Stroke Down
+27 Chord Stroke Up
+28 Biwa FX
+29 Phonograph Noise
+30 Tape Rewind
+31 Scratch Push 2
+32 Scratch Pull 2
+33 Cutting Noise 2 Up
+34 Cutting Noise 2 Down
+35 Distortion Guitar Cutting Noise Up
+36 Distortion Guitar Cutting Noise Down
+37 Bass Slide
+38 Pick Scrape
+39 High Q
+40 Slap
+41 Scratch Push
+42 Scratch Pull
+43 Sticks
+44 Square Click
+45 Metronome Click
+46 Metronome Bell
+47 Guitar Fret Noise
+48 Guitar Cutting Noise Up
+49 Guitar Cutting Noise Down
+50 String Slap of Double Bass
+51 Flute Key Click Noise
+52 Laughing
+53 Screaming
+54 Punch
+55 Heart Beat
+56 Footsteps 1
+57 Footsteps 2
+58 Applause
+59 Door Creaking
+60 Door
+61 Scratch
+62 Wind Chimes
+63 Car - Engine
+64 Car - Stop
+65 Car - Passing
+66 Car - Crash
+67 Siren
+68 Train
+69 Jetplane
+70 Helicopter
+71 Starship
+72 Gun Shot
+73 Machine Gun
+74 Laser Gun
+75 Explosion
+76 Dog
+77 Horse-Gallop
+78 Birds
+79 Rain
+80 Thunder
+81 Wind
+82 Seashore
+83 Stream
+84 Bubble
+85 Kitty
+86 Bird 2
+87 Growl
+88 Applause 2
+89 Telephone 1
+90 Telephone 2
+91 Small Club 1
+92 Small Club 2
+93 Applause Wave
+94 Eruption
+95 Big Shot
+96 Percussion Bang

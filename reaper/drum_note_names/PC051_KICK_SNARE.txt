@@ -1,0 +1,76 @@
+# SC-88Pro Native drum set PC 051 KICK & SNARE
+25 CR-78 Kick 1
+26 CR-78 Kick 2
+27 TR-606 Kick
+28 TR-707 Kick
+29 TR-808 Kick 1
+30 TR-909 Kick 1
+31 TR-909 Kick 2
+32 Hip-Hop Kick 2
+33 Hip-Hop Kick 1
+34 Jungle Kick 2
+35 Jungle Kick 1
+36 Techno Kick 2
+37 Techno KicK 1
+38 Standard 1 Kick 2
+39 Standard 1 Kick 1
+40 Standard 1 Kick 1
+41 Standard 1 Kick 2
+42 Standard 2 Kick 1
+43 Standard 2 Kick 2
+44 Kick Drum1
+45 Kick Drum 2
+46 Soft Kick
+47 Jazz Kick 1
+48 Jazz Kick 2
+49 Concert BD 1
+50 Room Kick 1
+51 Room Kick 2
+52 Power Kick1
+53 Power Kick2
+54 Electric Kick 2
+55 Electric Kick 1
+56 Electric Kick
+57 TR-808 Kick
+58 TR-909 Kick
+59 Dance Kick
+60 Standard 1 Snare 1
+61 Standard 1 Snare 2
+62 Standard 2 Snare 1
+63 Standard 2 Snare 2
+64 Tight Snare
+65 Concert Snare
+66 Jazz Snare 1
+67 Jazz Snare 2
+68 Room Snare 1
+69 Room Snare 2
+70 Power Snare 1
+71 Power Snare 2
+72 Gated Snare
+73 Dance Snare 1
+74 Dance Snare 2
+75 Disco Snare
+76 Electric Snare 2
+77 House Snare
+78 Electric Snare 1
+79 Electric Snare 3
+80 TR-808 Snare 1
+81 TR-808 Snare 2
+82 TR-909 Snare 1
+83 TR-909 Snare 2
+84 Brush Tap 1
+85 Brush Tap 2
+86 Brush Slap 1
+87 Brush Slap 2
+88 Brush Slap 3
+89 Brush Swirl 1
+90 Brush Swirl 2
+91 Brush Long Swirl
+92 Standard 1 Snare 1
+93 Standard 1 Snare 2
+94 Standard 1 Snare 3
+95 Rap Snare
+96 Hip-Hop Snare 2
+97 Jungle Snare 1
+98 Jungle Snare 2
+99 Techno Snare 1

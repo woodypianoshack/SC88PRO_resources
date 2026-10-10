@@ -1,0 +1,68 @@
+# SC-88Pro Native drum set PC 049 ORCHESTRA
+22 MC-500 Beep 1
+23 MC-500 Beep 2
+24 Concert SD
+25 Snare Roll
+26 Finger Snap
+27 Closed Hi-Hat 2
+28 Pedal Hi-Hat
+29 Open Hi-Hat 2
+30 Ride Cymbal 1
+31 Sticks
+32 Square Click
+33 Metronome Click
+34 Metronome Bell
+35 Jazz Kick 1
+36 Concert BD 1
+37 Side Stick
+38 Concert SD
+39 Castanets
+40 Concert SD
+41 Timpani F
+42 Timpani F#
+43 Timpani G
+44 Timpani G#
+45 Timpani A
+46 Timpani A#
+47 Timpani B
+48 Timpani c
+49 Timpani c#
+50 Timpani d
+51 Timpani d#
+52 Timpani e
+53 Timpani f
+54 Tambourine
+55 Splash Cymbal
+56 Cowbell
+57 Concert Cymbal 2
+58 Vibra-slap
+59 Concert Cymbal 1
+60 High Bongo
+61 Low Bongo
+62 Mute High Conga
+63 Open High Conga
+64 Low Conga
+65 High Timbale
+66 Low Timbale
+67 High Agogo
+68 Low Agogo
+69 Cabasa
+70 Maracas
+71 Short High Whistle
+72 Long Low Whistle
+73 Short Guiro
+74 Long Guiro
+75 Claves
+76 High Wood Block
+77 Low Wood Block
+78 Mute Cuica
+79 Open Cuica
+80 Mute Triangle
+81 Open Triangle
+82 Shaker
+83 Jingle Bell
+84 Bell Tree
+85 Castanets
+86 Mute Surdo
+87 Open Surdo
+88 Applause

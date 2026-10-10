@@ -1,0 +1,76 @@
+# SC-88Pro Native drum set PC 050 ETHNIC
+25 Finger Snap
+26 Tambourine
+27 Castanets
+28 Crash Cymbal 1
+29 Snare Roll
+30 Concert SD
+31 Concert Cymbal
+32 Concert BD 1
+33 Jingle Bell
+34 Bell Tree
+35 Bar Chimes
+36 Wadaiko
+37 Wadaiko Rim
+38 Shime Taiko
+39 Atarigane
+40 Hyoushigi
+41 Ohkawa
+42 High Kotsuzumi
+43 Low Kotsuzumi
+44 Ban Gu
+45 Big Gong
+46 Small Gong
+47 Bend Gong
+48 Thai Gong
+49 Rama Cymbal
+50 Gamelan Gong
+51 Udo Short
+52 Udo Long
+53 Udo Slap
+54 Bendir
+55 Req Dum
+56 Req Tik
+57 Tabla Te
+58 Tabla Na
+59 Tabla Tun
+60 Tabla Ge
+61 Tabla Ge Hi
+62 Talking Drum
+63 Bend Talking Drum
+64 Caxixi
+65 Djembe
+66 Djembe Rim
+67 Timbales Low
+68 Timbales Paila
+69 Timbales High
+70 Cowbell
+71 High Bongo
+72 Low Bongo
+73 Mute High Conga
+74 Open High Conga
+75 Mute Low Conga
+76 Conga Slap
+77 Open Low Conga
+78 Conga Slide
+79 Mute Pandiero
+80 Open Pandiero
+81 Open Surdo
+82 Mute Surdo
+83 Tamborim
+84 High Agogo
+85 Low Agogo
+86 Shaker
+87 High Whistle
+88 Low Whistle
+89 Mute Cuica
+90 Open Cuica
+91 Mute Triangle
+92 Open Triangle
+93 Short Guiro
+94 Long Guiro
+95 Cabasa Up
+96 Cabasa Down
+97 Claves
+98 High Wood Block
+99 Low Wood Block

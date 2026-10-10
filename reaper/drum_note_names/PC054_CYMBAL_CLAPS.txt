@@ -1,0 +1,66 @@
+# SC-88Pro Native drum set PC 054 CYMBAL&CLAPS
+32 Reverse Open Hi-Hat
+33 Reverse Closed Hi-Hat 1
+34 Reverse Closed Hi-Hat 2
+35 Jungle Hi-Hat
+36 Closed Hi-Hat
+37 Closed Hi-Hat 2
+38 Closed Hi-Hat 3
+39 Closed Hi-Hat 4
+40 Closed Hi-Hat
+41 TR-707 Closed Hi-Hat
+42 TR-606 Closed Hi-Hat
+43 TR-808 Closed Hi-Hat
+44 TR-808 Closed Hi-Hat
+45 CR-78 Closed Hi-Hat
+46 Pedal Hi-Hat
+47 Pedal Hi-Hat
+48 Pedal Hi-Hat
+49 Half-Open Hi-Hat 1
+50 Half-Open Hi-Hat 2
+51 Open Hi Hat
+52 Open Hi-Hat 2
+53 Open Hi-Hat 3
+54 Open Hi-Hat 2
+55 TR-909 Open Hi-Hat
+56 TR-707 Open Hi-Hat
+57 TR-606 Open Hi-Hat
+58 TR-808 Open Hi-Hat
+59 TR-808 Open Hi-Hat
+60 CR-78 Open Hi-Hat
+61 Crash Cymbal 1
+62 Crash Cymbal 2
+63 Crash Cymbal 3
+64 Brush Crash Cymbal
+65 Hard Crash Cymbal
+66 TR-909 Crash Cymbal
+67 TR-808 Crash Cymbal
+68 Mute Crash Cymbal 1
+69 Mute Crash Cymbal 2
+70 Reverse Crash Cymbal 1
+71 Reverse Crash Cymbal 2
+72 Reverse Crash Cymbal 3
+73 Reverse TR-909 Crash Cymbal
+74 Splash Cymbal
+75 Splash Cymbal
+76 Ride Bell
+77 Brush Ride Bell
+78 Ride Cymbal 1
+79 Ride Cymbal 2
+80 Brush Ride Cymbal
+81 Ride Cymbal Low Inner
+82 Ride Cymbal Mid Inner
+83 Ride Cymbal High Inner
+84 Ride Cymbal Low Edge
+85 Ride Cymbal Mid Edge
+86 Ride Cymbal High Edge
+87 TR-606 Ride Cymbal
+88 TR-808 Ride Cymbal
+89 Chinese Cymbal
+90 Chinese Cymbal 2
+91 Hand Clap
+92 Hand Clap 2
+93 Hand Clap
+94 Hand Clap
+95 Hand Clap 2
+96 TR-707 Hand Clap

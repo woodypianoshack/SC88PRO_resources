@@ -1,0 +1,65 @@
+# SC-88Pro Native drum set PC 053 ASIA
+25 Gamelan Gong 1
+26 Gamelan Gong 2
+27 Gamelan Gong 3
+28 Gamelan Gong 4
+29 Gamelan Gong 5
+30 Gamelan Gong 6
+31 Gamelan Gong 7
+32 Gamelan Gong 8
+33 Gamelan Gong 9
+34 Gamelan Gong 10
+35 Gender 1
+36 Gender 2
+37 Gender 3
+38 Gender 4
+39 Gender 5
+40 Bonang 1
+41 Bonang 2
+42 Bonang 3
+43 Bonang 4
+44 Bonang 5
+45 Rama Cymbal Low
+46 Rama Cymbal High
+47 Sagat Open
+48 Sagat Closed
+49 Jaws Harp
+50 Wadaiko
+51 Wadaiko Rim
+52 Small Taiko
+53 Shimedaiko
+54 Atarigane
+55 Hyoushigi
+56 Ohkawa
+57 High Kotsuzumi
+58 Low Kotsuzumi
+59 Yyoo Dude
+60 Buk
+61 Buk Rim
+62 Gengari p
+63 Gengari Mute Low
+64 Gengari f
+65 Gengari Mute High
+66 Gengari Samll
+67 Jang-Gu Che
+68 Jang-Gu Kun
+69 Jang-Gu Rim
+70 Jing p
+71 Jing f
+72 Jing Mute
+73 Asian Gong
+74 Big Gong
+75 Small Gong
+76 Pai Ban
+77 Ban Gu
+78 Tang Gu
+79 Tang Gu Mute
+80 Shou Luo
+81 Bend Gong
+82 Hu Yin Luo Low
+83 Hu Yin Luo Mid
+84 Hu Yin Luo Mid 2
+85 Hu Yin Luo High
+86 Hu Yin Luo High 2
+87 Nao Bo
+88 Xiao Bo

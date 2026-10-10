@@ -1,0 +1,57 @@
+# SC-88Pro Native drum set PC 059 RHYTHM FX 2
+36 Reverse TR-707 Kick 1
+37 Reverse TR-909 Kick 1
+38 Reverse Hip-Hop Kick 1
+39 Reverse Jungle Kick 2
+40 Reverse Techno Kick 2
+41 Reverse TR-606 Snare 2
+42 Reverse CR-78 Snare 1
+43 Reverse CR-78 Snare 2
+44 Reverse Jungle Snare 2
+45 Reverse Techno Snare 2
+46 Reverse TR-707 Snare
+47 Reverse TR-606 Snare 1
+48 Reverse TR-909 Snare 1
+49 Reverse Hip-Hop Snare 2
+50 Reverse Jungle Snare 1
+51 Reverse House Snare
+52 Reverse Closed Hi-Hat
+53 Reverse TR-606 Closed Hi-Hat
+54 Reverse TR-707 Closed Hi-Hat
+55 Reverse TR-808 Closed Hi-Hat
+56 Reverse Jungle Hi-Hat
+57 Reverse Tambourine 2
+58 Reverse Shake Tambourine
+59 Reverse TR-808 Open Hi-Hat
+60 Reverse TR-707 Open Hi-Hat
+61 Reverse Open Hi-Hat
+62 Reverse TR-606 Open Hi-Hat
+63 Reverse Hu Yin Luo
+64 Reverse TR-707 Crash Cymbal
+65 Voice One
+66 Reverse Voice One
+67 Voice Two
+68 Reverse Voice Two
+69 Voice Three
+70 Reverse Voice Three
+71 Voice Tah
+72 Reverse Voice Tah
+73 Voice Ou
+74 Voice Au
+75 Voice Whey
+76 Frog Vpoce
+77 Reverse Yyoo Dude
+78 Douby
+79 Reverse Douby
+80 Baert High
+81 Baert Low
+82 Bounce
+83 Reverse bounce
+84 Distortion Knock
+85 Guitar Slide
+86 Sub Marine
+87 Noise Attack
+88 Space Worms
+89 Emergency !
+90 Calculating...
+91 Saw LFO Saw

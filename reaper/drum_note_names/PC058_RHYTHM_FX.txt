@@ -1,0 +1,54 @@
+# SC-88Pro Native drum set PC 058 RHYTHM FX
+36 Reverse Kick 1
+37 Reverse Concert Bass Drum
+38 Reverse Power Kick1
+39 Reverse Electric Kick 1
+40 Reverse Snare 1
+41 Reverse Snare 2
+42 Reverse Standard 1 Snare 1
+43 Reverse Tight Snare
+44 Reverse Dance Snare
+45 Reverse 808 Snare
+46 Reverse Tom 1
+47 Reverse Tom 2
+48 Reverse Sticks
+49 Reverse Slap
+50 Reverse Cymbal 1
+51 Reverse Cymbal 2
+52 Reverse Open Hi-Hat
+53 Reverse Ride Cymbal
+54 Reverse CR-78 Open Hi-Hat
+55 Reverse Closed Hi-Hat
+56 Reverse Gong
+57 Reverse Bell Tree
+58 Reverse Guiro
+59 Reverse Bendir
+60 Reverse Gun Shot
+61 Reverse Scratch
+62 Reverse Laser Gun
+63 Key Click
+64 Techno Thip
+65 Pop Drop
+66 Woody Slap
+67 Distortion Kick
+68 Syn. Drops
+69 Reverse Hi Q
+70 Pipe
+71 Ice Block
+72 Digital Tambourine
+73 Alias
+74 Modulated Bell
+75 Spark
+76 Metallic Percussion
+77 Velocity Noise FX
+78 Stereo Noise Clap
+79 Swish
+80 Slappy
+81 Voice Ou
+82 Voice Au
+83 Hoo
+84 Tape Stop 1
+85 Tape Stop 2
+86 Missile
+87 Space Birds
+88 Flying Monster

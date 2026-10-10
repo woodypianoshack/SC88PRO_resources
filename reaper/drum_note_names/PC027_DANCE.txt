@@ -1,0 +1,68 @@
+# SC-88Pro Native drum set PC 027 DANCE
+22 MC-500 Beep 1
+23 MC-500 Beep 2
+24 Concert SD
+25 Snare Roll
+26 Finger Snap 2
+27 High Q
+28 Slap
+29 Scratch Push 2
+30 Scratch Pull 2
+31 Sticks
+32 Square Click
+33 Metronome Click
+34 Metronome Bell
+35 TR-909 Comp Kick
+36 Electric Kick 2
+37 Side Stick
+38 House Snare
+39 TR-909 Hand Clap
+40 Dance Snare 2
+41 Electric Low Tom 2
+42 CR-78 Closed Hi-Hat
+43 Electric Low Tom 1
+44 TR-808 Closed Hi-Hat 2
+45 Electric Mid Tom 2
+46 CR-78 Open Hi-Hat
+47 Electric Mid Tom 1
+48 Electric High Tom 2
+49 TR-808 Crash Cymbal
+50 Electric High Tom 1
+51 TR-606 Ride Cymbal
+52 Reverse Cymbal
+53 Ride Bell
+54 Shake Tambourine
+55 Splash Cymbal
+56 TR-808 Cowbell
+57 Crash Cymbal 2
+58 Vibra-slap
+59 Ride Cymbal 2
+60 High Bongo
+61 Low Bongo
+62 Mute High Conga
+63 Open High Conga
+64 Low Conga
+65 High Timbale
+66 Low Timbale
+67 High Agogo
+68 Low Agogo
+69 Cabasa
+70 Maracas
+71 Short High Whistle
+72 Long Low Whistle
+73 Short Guiro
+74 Long Guiro
+75 Claves
+76 High Wood Block
+77 Low Wood Block
+78 High Hoo
+79 Low Hoo
+80 Mute Triangle
+81 Open Triangle
+82 TR-626 Shaker
+83 Jingle Bell
+84 Bell Tree
+85 Castanets
+86 Mute Surdo
+87 Open Surdo
+88 Small Club 1
