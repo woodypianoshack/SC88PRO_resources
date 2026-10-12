@@ -4,15 +4,15 @@ Reference material for the **Roland SoundCanvas SC-88Pro**, built for MIDI seque
 
 **View online:**
 - Cheatsheet: <https://woodypianoshack.github.io/SC88PRO_resources/>
-- 88emuPlayer keyboard guide: <https://woodypianoshack.github.io/SC88PRO_resources/88EMU_SC88PRO_KEYS.html>
+- 88emuPlayer keyboard guide: <https://woodypianoshack.github.io/SC88PRO_resources/88emu.html>
 
 Both pages also work offline: download and open them in any browser.
 
 ## Contents
 
 ```
-index.html                     cheatsheet
-88EMU_SC88PRO_KEYS.html        88emuPlayer keyboard guide
+index.html                     Cheatsheet
+88emu.html                     88emuPlayer keyboard guide
 reaper/reabank/                REAPER bank files (instruments, drum kits)
 reaper/drum_note_names/        REAPER note-name file per drum kit
 ```
