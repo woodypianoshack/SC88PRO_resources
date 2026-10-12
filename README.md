@@ -17,7 +17,15 @@ reaper/reabank/                REAPER bank files (instruments, drum kits)
 reaper/drum_note_names/        REAPER note-name file per drum kit
 ```
 
-**Cheatsheet tabs:** Operation (front-panel button sequences), Capitals (128 GM instruments), Instruments (all 774 Native-map sounds), Drums (25 kits, shown as changes from STANDARD 1), Insertion FX (64 effects with SysEx), MIDI (CCs, RPN/NRPN, SysEx, effect types, checksum builder). Search covers all sounds and effects.
+**Cheatsheet tabs:**
+- **Basic operation**
+- **Capital instruments:** 128 GM instruments
+- **Instrument variations:** All 774 Native-map sounds
+- **Drums:** 25 kits
+- **Insertion FX:** 64 effects with SysEx
+- **MIDI:** CCs, RPN/NRPN, SysEx, effect types, checksum builder
+
+Search covers all sounds and effects.
 
 **Keyboard guide:** Keyboard shortcut mappings in [88EmuPlayer](https://github.com/dsp56300/gearmulator/blob/main/doc/88emu_readme.md).
 
