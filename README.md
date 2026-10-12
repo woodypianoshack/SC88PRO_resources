@@ -1,9 +1,9 @@
 # SC88PRO resources
 
-Reference material for the **Roland SoundCanvas SC-88Pro**, built for MIDI sequencing. All data comes from the SC-88Pro Owner's Manual.
+Reference material for the **Roland SoundCanvas SC-88Pro**.
 
 **View online:**
-- Cheatsheet: <https://woodypianoshack.github.io/SC88PRO_resources/>
+- SC88Pro cheatsheet: <https://woodypianoshack.github.io/SC88PRO_resources/>
 - 88emuPlayer keyboard guide: <https://woodypianoshack.github.io/SC88PRO_resources/88emu.html>
 
 Both pages also work offline: download and open them in any browser.
@@ -11,7 +11,7 @@ Both pages also work offline: download and open them in any browser.
 ## Contents
 
 ```
-index.html                     Cheatsheet
+index.html                     SC88Pro cheatsheet
 88emu.html                     88emuPlayer keyboard guide
 reaper/reabank/                REAPER bank files (instruments, drum kits)
 reaper/drum_note_names/        REAPER note-name file per drum kit
@@ -19,22 +19,13 @@ reaper/drum_note_names/        REAPER note-name file per drum kit
 
 **Cheatsheet tabs:** Operation (front-panel button sequences), Capitals (128 GM instruments), Instruments (all 774 Native-map sounds), Drums (25 kits, shown as changes from STANDARD 1), Insertion FX (64 effects with SysEx), MIDI (CCs, RPN/NRPN, SysEx, effect types, checksum builder). Search covers all sounds and effects.
 
-**Keyboard guide:** which computer keys press which panel buttons in [88emuPlayer](https://github.com/dsp56300/gearmulator/blob/main/doc/88emu_readme.md), with every manual operation translated to keys.
+**Keyboard guide:** Keyboard shortcut mappings in [88emuPlayer](https://github.com/dsp56300/gearmulator/blob/main/doc/88emu_readme.md).
 
 ## Using the REAPER files
 
 - **Bank files:** in a track's Bank/Program Select dialog, load `SC-88Pro_Native.reabank` for instrument tracks and `SC-88Pro_Drums.reabank` for the drum track. They're separate because kits and instruments share bank 0/3.
 - **Drum note names:** in the MIDI editor, File → Note names → Load note names from file, then pick the kit's file (e.g. `PC026_TR_808.txt`).
 
-## Notes
-
-- Covers the **Native map** only (select with CC32 = 3); the SC-55/SC-88 compatibility maps are not included.
-- Musical notes use Roland naming: middle C (note 60) = **C4**.
-- Drum kits cover notes 21–99; the extra sounds on notes 0–19 and 97–127 (manual p.170) are not included.
-- Avoid **GM System On** in SC-88Pro songs: it disables Bank Select and NRPN, so variations are ignored. Use GS Reset instead.
-- The REAPER files have not been tested on every REAPER version.
-
-Manual: <https://cdn.roland.com/assets/media/pdf/SC-88PRO_OM.pdf>
 
 ## Disclaimer
 
